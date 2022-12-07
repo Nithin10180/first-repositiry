@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css"
+    href="style2.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="bg2">
+        <img src="https://wallpapercave.com/wp/wp1874156.jpg" height="800px" width="1500px">
+    <p><b>Great menu:</b> yes please! A good menu is a deal-breaker any day, after all, good food is top priority for virtually everyone. For a restaurant to qualify as great, it should have a menu that is thorough and spell-checked. One that offers a wide range of dishes as well as a clear cut description of what each meal actually is, so as to make it easy for the customer to know what exactly they should be expecting and an idea of how long he or she might have to wait for the meal to arrive.</p><br>
+
+       <p> A good restaurant must have good food, it’s absolutely necessary. In order to do this, it must also have great quality commercial equipment (learn more here) to be able to make the dishes. A restaurant that has a great menu and good food, will definitely have great reviews and have people coming back over and over again.</p><br>
+        
+        <p><b>Great service:</b> if the service is good then it’s a good place to be. A great service can make all of the difference in the world. Everybody loves to be in a restaurant that has a good and attentive staff. A place where they pay attention to details and have regard for the feelings of the customer. When you go to a place where they make it a priority for the customer to leave happy, you would definitely pay a second visit as well as recommend it to your Loved ones.</p><br>
+        
+        <p>A good bar or restaurant should have servers who can easily point customers towards specials offered by the restaurant, especially if they are regulars who may be looking for something different. The servers ought to be courteous and knowledgeable about the cuisine, all the while ensuring that the needs of the diners are met promptly and that the food and drinks get to the customers as and when due.</p><br>
+        
+        <p>Of course, great service also entails responsibility, particularly around serving alcohol, so restaurant owners may wish to look into getting their staff RBS certification in California, or wherever they are, to give their staff and customers confidence that alcohol will taken seriously and not served to anyone it </p>
+    </div>
+    
+</body>
+</html>
