@@ -11,7 +11,7 @@
 <body>
     <div id="bg2">
         <img src="https://wallpapercave.com/wp/wp1874156.jpg" height="800px" width="1500px">
-    <p><b>Great menu:</b> yes please! A good menu is a deal-breaker any day, after all, good food is top priority for virtually everyone. For a restaurant to qualify as great, it should have a menu that is thorough and spell-checked. One that offers a wide range of dishes as well as a clear cut description of what each meal actually is, so as to make it easy for the customer to know what exactly they should be expecting and an idea of how long he or she might have to wait for the meal to arrive.</p><br>
+    <p><b>Great menu:</b> yes please! A good menu is a deal-breaker any day, good food is top priority for virtually everyone. For a restaurant to qualify as great, it should have a menu that is thorough and spell-checked. One that offers a wide range of dishes as well as a clear cut description of what each meal actually is, so as to make it easy for the customer to know what exactly they should be expecting and an idea of how long he or she might have to wait for the meal to arrive.</p><br>
 
        <p> A good restaurant must have good food, it’s absolutely necessary. In order to do this, it must also have great quality commercial equipment (learn more here) to be able to make the dishes. A restaurant that has a great menu and good food, will definitely have great reviews and have people coming back over and over again.</p><br>
         
